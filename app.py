@@ -42,6 +42,6 @@ else:
     st.info("Big or small, every achievement counts! 🎈 Share it now! 💪")  
 
 #footer
-st.write("- - -")
+st.header("Last Motivation")
 st.write("Believe in yourself and your journey. Every step you take, no matter how small, brings you closer to your goals. 🌟 Keep pushing forward, embrace challenges, and remember: growth happens outside your comfort zone. You've got this! 💪✨")
 st.write("©️ Created by Muhammad Ashhad Khan")

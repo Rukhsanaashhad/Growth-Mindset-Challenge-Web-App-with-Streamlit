@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title= "First Assignment", project_icon= "🥴")
+st.set_page_config(page_title="First Assignment", page_icon="🪴")  # For example  
 st.title = ("Growth Mindset challenge")
 
 st.header("🌻 Welcome to your Growth Journey!")
